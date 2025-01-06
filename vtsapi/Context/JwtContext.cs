@@ -46,6 +46,9 @@ namespace vahangpsapi.Context
         public DbSet<vahan_device_master> vahan_device_master { get; set; }
         public DbSet<sim_status_sensorise> sim_status_sensorise { get; set; }
 
+        public DbSet<vahan_activation_request> vahan_activation_request { get; set; }
+        public DbSet<vahan_registration_type_master> vahan_registration_type_master { get; set; }
+
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -4785,11 +4785,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\vms_crud\\vahangpsapi\\vtsapi\\vahangpsapi.csproj",
+      "projectUniqueName": "H:\\vms_crud\\git_vahangpsapi\\vtsapi\\vahangpsapi.csproj",
       "projectName": "vahangpsapi",
-      "projectPath": "H:\\vms_crud\\vahangpsapi\\vtsapi\\vahangpsapi.csproj",
+      "projectPath": "H:\\vms_crud\\git_vahangpsapi\\vtsapi\\vahangpsapi.csproj",
       "packagesPath": "C:\\Users\\erash\\.nuget\\packages\\",
-      "outputPath": "H:\\vms_crud\\vahangpsapi\\vtsapi\\obj\\",
+      "outputPath": "H:\\vms_crud\\git_vahangpsapi\\vtsapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erash\\AppData\\Roaming\\NuGet\\NuGet.Config",
