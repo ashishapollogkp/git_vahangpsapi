@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QT5bw+fw5/c=",
+  "dgSpecHash": "9oT1OP63Ixo=",
   "success": true,
-  "projectFilePath": "H:\\vms_crud\\vahangpsapi\\vtsapi\\vahangpsapi.csproj",
+  "projectFilePath": "H:\\vms_crud\\git_vahangpsapi\\vtsapi\\vahangpsapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erash\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\erash\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
